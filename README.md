@@ -19,6 +19,8 @@ retention risks and improve workforce planning decisions.
 - Employees with low salary hikes showed highest attrition
 - Age group 26–35 had the most attrition cases
 - Sales job role showed highest dissatisfaction levels
+- ## 📸 Dashboard Preview
+![Employee Attrition Dashboard](attrition_dashboard_preview.png)
 
 ## 📁 Files
 - Employee_Attrition_Dashboard.pbix — Power BI dashboard file
